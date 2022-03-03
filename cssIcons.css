@@ -1,0 +1,23 @@
+.a :hover {
+  background-color: yellowgreen;
+}
+.a {
+  list-style-type: lower-greek;
+}
+.b :hover {
+  background-color: sandybrown;
+}
+.b {
+  list-style-type: circle;
+}
+.hidden {
+    background-color: violet;
+    display: visibility;
+}
+.center {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+}
