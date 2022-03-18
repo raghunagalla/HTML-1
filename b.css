@@ -8,12 +8,6 @@
     padding: 12px 20px;
 }
 
-.formB .firstRow .checkBox {
+.formB .checkBox {
     padding: 12px 20px;
-    border-radius: 8px;
-    padding: 5px;
-}
-
-.formB .email {
-    background-color: aliceblue;
 }
