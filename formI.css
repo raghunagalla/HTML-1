@@ -1,0 +1,13 @@
+.formI{
+    text-align: center;
+    background-color: rgb(24, 3, 44);
+    width: 50%;
+}
+.formI .inputType {
+    opacity: 50%;
+    border-radius: 4px;
+    padding: 20px 12px;
+}
+.formI .password {
+    color: white;
+}
