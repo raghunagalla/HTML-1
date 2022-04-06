@@ -1,0 +1,18 @@
+body {
+    background-color: #555;
+}
+
+.formA {
+    max-width: 500px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+}
+
+button {
+    opacity: 50%;
+}
+
+.para {
+    font-weight: bold;
+}

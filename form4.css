@@ -1,0 +1,40 @@
+.loginForm {
+    background-color: #2f2f6d;
+    background-size: auto;
+}
+
+input[type=text] {
+    background-color: #27275c;
+    width: 50%;
+    padding: 12px 20px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #1d1313;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    background-color: #1990bc;
+    width: 50%;
+    color: white;
+    padding: 12px 20px;
+    margin: 5px 0;
+    border: none;
+    border-radius: 4px;
+}
+
+.loginForm,
+h1 {
+    color: white;
+    font-size: large;
+}
+
+.loginForm {
+    text-align: center;
+}
+
+#fname,
+#lname {
+    color: #1990bc;
+}
